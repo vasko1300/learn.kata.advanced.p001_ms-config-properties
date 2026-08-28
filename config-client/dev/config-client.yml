@@ -1,9 +1,4 @@
-message: success
-server:
-  port: 8889
-spring:
-  application:
-    name: config-client
+# message: success
 eureka:
   client:
     enabled: true
